@@ -1,4 +1,4 @@
-rinkeby deploy information
+rinkeby network deploy information
 
 first contract address
 0xc9054443162cCC1baCB611e5963B73b480fAA1d9
