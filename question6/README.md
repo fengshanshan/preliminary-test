@@ -9,6 +9,14 @@ second one address
 third one address
 0x3c2318722c04ffc5867dcef743f2b6d962cb2e94
 
+use cloud service run the private chain, address as following:
+RPC URL http://68.183.189.159:8502
+chainID:16
+
+change truffle development network configuration to the address above
+
+
+
 
 
 
